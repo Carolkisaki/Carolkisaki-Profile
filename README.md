@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my GitHub profile
-## My name is Carolina Yukiko Kisaki and my nickname is Carol, I am 29 years old, and I live in São Paulo/SP. Additionally, I am passionate about oriental culture, an otaku, and a gamer. I am currently specializing in Data Analytics with Power BI through DIO's bootcamp.!
+## My name is Carolina Yukiko Kisaki and my nickname is Carol, I am 29 years old, and I live in São Paulo/SP. Additionally, I am passionate about oriental culture, an otaku, and a gamer. I am currently specializing in Data Analytics!
 
 🌱 I am a biologist graduated from the Complexo Educacional FMU and hold a master's degree in Science from the Instituto Butantan. I have a passion for science, technology, and data analysis.
 
