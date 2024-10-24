@@ -9,7 +9,7 @@
 
 ## 🖥️ Tecnology and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/> <img src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
 
 ## 📫 Contact:
 <a href="https://www.linkedin.com/in/carolina-yukiko-kisaki-a43043150/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
