@@ -3,7 +3,7 @@
 
 🌱 I am a biologist graduated from the Complexo Educacional FMU and hold a master's degree in Science from the Instituto Butantan. I have a passion for science, technology, and data analysis.
 
-💻 Currently, I am diving deep into Data Analytics with Power BI, learning how to manipulate and visualize data effectively to make informed decisions
+💻 Currently, I am diving deep into Data Analytics with Power BI, Python and SQL, learning how to manipulate and visualize data effectively to make informed decisions
 
 🔬 I have a strong academic background with research experience in Microbiology and Biochemistry. I worked at Instituto Butantan, where I developed scientific initiation and master's projects. Additionally, I gained practical experience in research laboratories, applying cell culture techniques and mass spectrometry.
 
