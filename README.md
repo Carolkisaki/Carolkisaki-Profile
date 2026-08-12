@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Carolina Kisaki!
+# 👋 Olá, eu sou Carolina Kisaki!
 ## **Analista de Dados & Business Intelligence** | Transformando dados em insights estratégicos para a tomada de decisão.
 Atualmente, atuo como estagiária na área B2B do **Grupo 3 Corações**, focada em análise de dados voltada ao negócio, desenvolvimento de dashboards, automação de processos e suporte estratégico. Sou graduando em **Ciência de Dados** pela UNICID (powered by Google Cloud) e mestre em Toxinologia pelo **Instituto Butantan**.
 
